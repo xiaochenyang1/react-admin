@@ -18,7 +18,7 @@
 - 获取项目代码
 
 ```bash
-git clone https://github.com/southliu/react-admin.git
+git clone https://github.com/xiaochenyang1/react-admin.git
 ```
 
 - 选择目录
